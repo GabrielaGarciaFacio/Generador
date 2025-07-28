@@ -80,8 +80,6 @@ python-docx==1.1.2
 python-pptx==1.0.2
 pytz==2024.2
 pytz-deprecation-shim==0.1.0.post0
-pywin32==308
-pywin32-ctypes==0.2.3
 PyYAML==6.0.2
 referencing==0.35.1
 regex==2024.11.6
